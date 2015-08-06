@@ -1,6 +1,6 @@
 {
 	"name": "yui2md",
-	"version": "1.0.1",
+	"version": "1.0.4",
 	"description": "yuidoc render to md",
 	"main": "index.js",
 	"scripts": {
@@ -11,7 +11,7 @@
 		"url": "https://github.com/backsapce/yuidoc2md"
 	},
 	"bin": {
-		"yui2md": "./bin/yuidoc2md"
+		"yui2md": "./index.js"
 	},
 	"author": "@backspace",
 	"license": "MIT",
