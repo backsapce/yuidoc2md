@@ -1,14 +1,14 @@
-#convert yuidoc tag to markdown
+# convert yuidoc tag to markdown
 
 install
 
 > npm install -g yuidoc2md
 
-#Note:
+# Note:
 > It is  exanclly a  ugliy version.this will be improved in next version,also will add windows os suport.you can watch it but please don't use it.
 
-#dependencies
+# dependencies
 
 please install yuidoc cil frist.
 
->npm install -g yuidocjs
+> npm install -g yuidocjs
