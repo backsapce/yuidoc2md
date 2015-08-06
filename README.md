@@ -1,4 +1,9 @@
-# convert yuidoc tag to markdown
+# yui2md
+________________
+[![NPM](https://nodei.co/npm/yui2md.png?compact=true)](https://nodei.co/npm/yui2md/)  [![Build Status](https://travis-ci.org/backsapce/yuidoc2md.svg?branch=master)](https://travis-ci.org/backsapce/yuidoc2md)
+
+
+## convert yuidoc tag to markdown
 
 ### install
 
@@ -11,6 +16,10 @@
 ```sh
 yui2md  doc
 ```
+
+the yuidoc syntax please read [here](http://yui.github.io/yuidoc/syntax/)
+
+
 
 
 # Note:
