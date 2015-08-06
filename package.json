@@ -1,28 +1,28 @@
 {
-  "name": "yui2md",
-  "version": "1.0.6",
-  "description": "yuidoc render to md",
-  "main": "index.js",
-  "scripts": {
-    "test": "./node_modeules/mocha ./test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/backsapce/yuidoc2md"
-  },
-  "bin": {
-    "yui2md": "./bin/yuidoc"
-  },
-  "preferGlobal": "true",
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "author": "@backspace",
-  "license": "MIT",
-  "dependencies": {
-    "lodash": "^3.10.1"
-  },
-  "devDependencies": {
-    "mocha": "^2.2.5"
-  }
+	"name": "yui2md",
+	"version": "1.0.6",
+	"description": "yuidoc render to md",
+	"main": "index.js",
+	"scripts": {
+		"test": "./node_modules/mocha/bin/mocha ./test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/backsapce/yuidoc2md"
+	},
+	"bin": {
+		"yui2md": "./bin/yuidoc"
+	},
+	"preferGlobal": "true",
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"author": "@backspace",
+	"license": "MIT",
+	"dependencies": {
+		"lodash": "^3.10.1"
+	},
+	"devDependencies": {
+		"mocha": "^2.2.5"
+	}
 }
