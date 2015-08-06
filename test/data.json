@@ -1,0 +1,1212 @@
+{
+	"project": {},
+	"files": {
+		"middleware/auth.js": {
+			"name": "middleware/auth.js",
+			"modules": {},
+			"classes": {
+				"middleware-auth": 1
+			},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/customer/customer.js": {
+			"name": "models/db/customer/customer.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/datas/datas.js": {
+			"name": "models/db/datas/datas.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/download/download.js": {
+			"name": "models/db/download/download.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/editor_recommend/recommend.js": {
+			"name": "models/db/editor_recommend/recommend.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/favor/favor.js": {
+			"name": "models/db/favor/favor.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/files/upload_files.js": {
+			"name": "models/db/files/upload_files.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/infos/infos.js": {
+			"name": "models/db/infos/infos.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/like/likes.js": {
+			"name": "models/db/like/likes.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/log/log_error.js": {
+			"name": "models/db/log/log_error.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/product/product_active.js": {
+			"name": "models/db/product/product_active.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/product/product_doc.js": {
+			"name": "models/db/product/product_doc.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/product/product_factory.js": {
+			"name": "models/db/product/product_factory.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/product/product_model.js": {
+			"name": "models/db/product/product_model.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/report/reports.js": {
+			"name": "models/db/report/reports.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/setting/info_menu.js": {
+			"name": "models/db/setting/info_menu.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/setting/site_params.js": {
+			"name": "models/db/setting/site_params.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/socre/scores.js": {
+			"name": "models/db/socre/scores.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"models/db/tag/tags.js": {
+			"name": "models/db/tag/tags.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/account.js": {
+			"name": "routes/account.js",
+			"modules": {},
+			"classes": {
+				"router-account": 1
+			},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/category.js": {
+			"name": "routes/category.js",
+			"modules": {},
+			"classes": {
+				"router-category": 1
+			},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/comment.js": {
+			"name": "routes/comment.js",
+			"modules": {},
+			"classes": {
+				"router-comment": 1
+			},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/datas.js": {
+			"name": "routes/datas.js",
+			"modules": {},
+			"classes": {
+				"router-datas": 1
+			},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/download.js": {
+			"name": "routes/download.js",
+			"modules": {},
+			"classes": {
+				"router-download": 1
+			},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/favor.js": {
+			"name": "routes/favor.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/like.js": {
+			"name": "routes/like.js",
+			"modules": {},
+			"classes": {},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/score.js": {
+			"name": "routes/score.js",
+			"modules": {},
+			"classes": {
+				"router-score": 1
+			},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/search.js": {
+			"name": "routes/search.js",
+			"modules": {},
+			"classes": {
+				"router-search": 1
+			},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/upload.js": {
+			"name": "routes/upload.js",
+			"modules": {},
+			"classes": {
+				"router-upload": 1
+			},
+			"fors": {},
+			"namespaces": {}
+		},
+		"routes/users.js": {
+			"name": "routes/users.js",
+			"modules": {},
+			"classes": {
+				"router-user": 1
+			},
+			"fors": {},
+			"namespaces": {}
+		}
+	},
+	"modules": {},
+	"classes": {
+		"middleware-auth": {
+			"name": "middleware-auth",
+			"shortname": "middleware-auth",
+			"classitems": [],
+			"plugins": [],
+			"extensions": [],
+			"plugin_for": [],
+			"extension_for": [],
+			"file": "middleware/auth.js",
+			"line": 4,
+			"description": "登录相关的中间件"
+		},
+		"router-account": {
+			"name": "router-account",
+			"shortname": "router-account",
+			"classitems": [],
+			"plugins": [],
+			"extensions": [],
+			"plugin_for": [],
+			"extension_for": [],
+			"file": "routes/account.js",
+			"line": 3,
+			"description": "账户相关，包括登录，注册，密码找回，第三方登录\n这部分应该是未来需要走https的"
+		},
+		"router-category": {
+			"name": "router-category",
+			"shortname": "router-category",
+			"classitems": [],
+			"plugins": [],
+			"extensions": [],
+			"plugin_for": [],
+			"extension_for": [],
+			"file": "routes/category.js",
+			"line": 5,
+			"description": "分类路由"
+		},
+		"router-comment": {
+			"name": "router-comment",
+			"shortname": "router-comment",
+			"classitems": [],
+			"plugins": [],
+			"extensions": [],
+			"plugin_for": [],
+			"extension_for": [],
+			"file": "routes/comment.js",
+			"line": 4,
+			"description": "评论的接口\n默认user auth token是这里所有方法的url param"
+		},
+		"router-datas": {
+			"name": "router-datas",
+			"shortname": "router-datas",
+			"classitems": [],
+			"plugins": [],
+			"extensions": [],
+			"plugin_for": [],
+			"extension_for": [],
+			"file": "routes/datas.js",
+			"line": 6,
+			"description": "数据路由"
+		},
+		"router-download": {
+			"name": "router-download",
+			"shortname": "router-download",
+			"classitems": [],
+			"plugins": [],
+			"extensions": [],
+			"plugin_for": [],
+			"extension_for": [],
+			"file": "routes/download.js",
+			"line": 3
+		},
+		"router-score": {
+			"name": "router-score",
+			"shortname": "router-score",
+			"classitems": [],
+			"plugins": [],
+			"extensions": [],
+			"plugin_for": [],
+			"extension_for": [],
+			"file": "routes/score.js",
+			"line": 3
+		},
+		"router-search": {
+			"name": "router-search",
+			"shortname": "router-search",
+			"classitems": [],
+			"plugins": [],
+			"extensions": [],
+			"plugin_for": [],
+			"extension_for": [],
+			"file": "routes/search.js",
+			"line": 3
+		},
+		"router-upload": {
+			"name": "router-upload",
+			"shortname": "router-upload",
+			"classitems": [],
+			"plugins": [],
+			"extensions": [],
+			"plugin_for": [],
+			"extension_for": [],
+			"file": "routes/upload.js",
+			"line": 5
+		},
+		"router-user": {
+			"name": "router-user",
+			"shortname": "router-user",
+			"classitems": [],
+			"plugins": [],
+			"extensions": [],
+			"plugin_for": [],
+			"extension_for": [],
+			"file": "routes/users.js",
+			"line": 6,
+			"description": "用户路由"
+		}
+	},
+	"classitems": [{
+		"file": "middleware/auth.js",
+		"line": 9,
+		"description": "需要登录,如果http头中带有token，那么检测token。如果没有，那么从session中找",
+		"itemtype": "method",
+		"name": "require_login",
+		"class": " - auth "
+	}, {
+		"file": "models/db/customer/customer.js",
+		"line": 28,
+		"description": "客户信息表\n{String} name: 客户名称\n{String} site_code: 归属站点\n{[String]} administrators: 管理员 related to Meteor.users\n{String} notes: 其它信息\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间\n{String} updated_by: 注册人 related to Meteor.users\n{Number} updated_on: 注册时间",
+		"class": "router-account"
+	}, {
+		"file": "models/db/datas/datas.js",
+		"line": 106,
+		"description": "数据总表\n{String} title: 标题\n{String} site_code: 归属站点\n{String} page_name: 页面名称，必须是站点同类中唯一，建议规则是数据名称的英文\n{[obj]} data_class: related to InfoMenu,{id:XXX, name: XXX, unique_name:XXX}\n{[String]} data_from: ['scan', 'design']\n{[String]} key_word\n{[obj]} tags: {id:XXX, name: XXX}\n{[obj]} datas: related to FilesUpload,{id:XXX, name: XXX}\n{[String]} thumbs: related to FilesUpload，这里放置的是图片的缩略图，需要与ued商量这里需要不需要指定哪个为主图\n{String} description\n{obj} meta_data:数据信息\n\t\t{obj} size: 尺寸\n\t\t\t{Number} x_size\n\t\t\t{Number} y_size\n\t\t\t{Number} z_size\n\t\t{String} quality: 质量 ['high','middle','low']\n\t\t{Number} vertices: 顶点数\n\t\t{Number} faces: 三角面片\n{obj} static_data:统计数据，动态触发更新\n\t\t{Number} like_counts: 点赞数量\n\t\t{Number} favor_counts: 收藏数量\n\t\t{Number} view_counts: 浏览数量\n\t\t{Number} preview_counts: 预览数量\n\t\t{Number} comment_counts: 评论数量\n\t\t{Number} download_counts: 下载数量\n\t\t{Number} avg_score: 平均得分\n{String} issue_by: related to Meteor.users\n{Number} issue_on：发布时间\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间\n{String} updated_by: 更新人 related to Meteor.users\n{Number} updated_on: 更新时间\n{String} status: 状态, ['new', 'issued', 'recommended', 'deleted', 'un_pub'(新增 取消发布)]\n\t\tnew:表示用户提交，未审核的\n\t\tissued:表示已经审核通过\n\t\tunpassed:表示审核未通过\n\t\trecommended:表示被推荐的\n\t\tdeleted：表示被删除的",
+		"class": "router-account"
+	}, {
+		"file": "models/db/download/download.js",
+		"line": 28,
+		"description": "下载记录总表\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被对象的id\n{String} target_name: 被对象的name or title\n{obj} time_meta: 下载的时间截分属性\n\t\t\t{Number} year:\n\t\t\t{Number} month:\n\t\t\t{Number} week:\n\t\t\t{Number} day:\n\t\t\t{Number} hour:\n{String} downloaded_by: 下载人 related to Meteor.users\n{String} created_by: 注册人 related to Meteor.users\n{Number} down_count: 下载次数\n{Number} created_on: 注册时间",
+		"class": "router-account"
+	}, {
+		"file": "models/db/editor_recommend/recommend.js",
+		"line": 29,
+		"description": "编辑推荐总表\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被对象的id\n{String} target_name: 被对象的name or title\n{String} content\n{String} recommended_by: 评论人 related to Meteor.users\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间\n{String} updated_by: 更新人 related to Meteor.users\n{Number} updated_on: 更新时间\n{String} status: 状态, ['enabled', 'disabled']",
+		"class": "router-account"
+	}, {
+		"file": "models/db/favor/favor.js",
+		"line": 24,
+		"description": "收藏记录总表\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被对象的id\n{String} target_name: 被对象的name or title\n{String} favored_by: 收藏人 related to Meteor.users\n{obj} time_meta: 收藏的时间截分属性\n\t\t\t{Number} year:\n\t\t\t{Number} month:\n\t\t\t{Number} week:\n\t\t\t{Number} day:\n\t\t\t{Number} hour:\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间",
+		"class": "router-account"
+	}, {
+		"file": "models/db/files/upload_files.js",
+		"line": 42,
+		"description": "上传文件表\n本表用于上传过程中的记录：\n\t\t上传过程中的状态为uploading\n\t\t失败为failed\n\t\t保存完成为finished\n本表也用于已经完成上传并合并或者是在生成缩略图的正式文件的记录，状态一般为:\n\t\tenabled表示上传但未被发布或引用\n\t\tquoted表示被常规引用\n\t\t生成失败为failed\n\t\tgenerating表示正在生成中\n注意：\n\t\t是否允许上传应该是判断是否同一个人上传的相同大小、名称的文件：\n\t\t\t\t\tsite_code、指定的保存顶级目录、file_class、chunks_size、upload_by、\n\t\t\t\t\t\t file_size、content_type、file_name、status\n\t\t在被引用或发布时，应该更新本表相应记录的目标表和目标id\n\t\t在被取消引用或发布时，同样需要更新\n\t\t在文件被删除时，应该需要同步删除相应记录\n\t\t上传完成后正式文件保存完时，应该要建立与chunks之间的关系\n\t\t生成预览图时，也应该要建立预览图与原图之间的关系\n{String}                 site_code 看lib的config.js中的定义\n{String }                save_path 客户指定的上传保存的顶级目录\n{String }                gen_save_path 上传保存时服务器端在指定顶级目录下生成的目录\n{String }                file_class ['origin', 'image', 'thumb', 'avatar', 'thumb_avatar']值中的一个\n{String }                save_class ['fs','gridfs']值中的一个\n{String }                upload_by 上传人id\n{Int}                    upload_on 上传时间\n{Int}                    file_size: '234080',\n{String}                 content_type: 'image/png',\n{String}                 unique_identifier: 文件的唯一标识，一般是md5后的文件和用户名,\n{String}                 save_name: 'github.png',\n{String}                 file_name: 'github.png',\n{Int}                    chunks_size: '1'\n{String}                 status  ['uploading','failed','finished','generating','enalbed','quoted']中的一个\n{obj or [obj]}     related_obj\n\t\t\t\t\t对于origin来说，这里保存的是chunk文件的{[obj]}{id:XXX,name:XXX}\n\t\t\t\t\t对于image来说，这里保存的是thumb文件的{[obj]}{id:XXX,name:XXX}\n\t\t\t\t\t对于thumb来说，这里保存的是image文件的{obj}{id:XXX,name:XXX}\n\t{[Ojbect]}\t            quoted_by 这里保存的Object结构是{'collection_name':XXX, 'id':XXX, 'name':XXX}",
+		"class": "router-account"
+	}, {
+		"file": "models/db/infos/infos.js",
+		"line": 39,
+		"description": "非数据类的资讯总表，包括单页、资讯、技巧、博客\n{String} page_title: 标题\n{String} site_code: 归属站点\n{String} page_name: 页面名称，一般用于Seo，表示生成的链接中的地址，必须是站点中同类唯一，建议规则是标题的英文\n{String} info_type: ['single_page', 'news', 'resource', 'blog']单页、资讯、技巧、博客\n{[obj]} info_menu: related to InfoMenu,{id:XXX, name: XXX, unique_name:XXX}\n{[String]} key_word\n{[obj]} page_tags:{id:XXX, name: XXX}\n{[String]} attachments: related to FilesUpload\n{String} issue_by: related to Meteor.users\n{String} description\n{String} issue_on\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间\n{String} updated_by: 更新人 related to Meteor.users\n{Number} updated_on: 更新时间\n{String} status: 状态, ['enabled', 'disabled']",
+		"class": "router-account"
+	}, {
+		"file": "models/db/like/likes.js",
+		"line": 23,
+		"description": "点赞总表\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被对象的id\n{String} target_name: 被对象的name or title\n{String} liked_by: 评分人 related to Meteor.users\n{obj} time_meta: 点赞的时间截分属性\n\t\t\t{Number} year:\n\t\t\t{Number} month:\n\t\t\t{Number} week:\n\t\t\t{Number} day:\n\t\t\t{Number} hour:\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间",
+		"class": "router-account"
+	}, {
+		"file": "models/db/log/log_error.js",
+		"line": 25,
+		"description": "系统错误日志表\n{number} create_on 发生的时间\n{String} site_code\n{String} level 等级，分级制度参考Linux process 优先级规则\n{String} desc  错误的描述，一般是存Meteor.Error.error\n{String} comment 错误的备注\n{String} source 错误的发生源，一般是方法名",
+		"class": "router-account"
+	}, {
+		"file": "models/db/product/product_active.js",
+		"line": 29,
+		"description": "用户产品注册信息表\n{String} cps_id 产品型号\n{String} sn_code 序列号\n{Number} factory_on 出厂时间\n{Number} active_on 激活时间\n{String} active_by 激活人\n{String} note 备注\n{String} created_by 注册人\n{Number} created_on 注册时间\n{String} updated_by 注册人\n{Number} updated_on 注册时间\n{String} status 状态",
+		"class": "router-account"
+	}, {
+		"file": "models/db/product/product_doc.js",
+		"line": 28,
+		"description": "客户产品资料下载服务之产品型号资料表\n{[String]} cps_id 产品型号\n{String} customor_id 客户\n{[String]} docs_ar 产品资料\n{Number} issue_on 出厂时间\n{String} notes 其它信息\n{String} created_by 注册人\n{Number} created_on 注册时间\n{String} updated_by 更新信息\n{Number} updated_on 更新信息时间\n{String} status 状态：enabled, disabled",
+		"class": "router-account"
+	}, {
+		"file": "models/db/product/product_factory.js",
+		"line": 28,
+		"description": "客户产品资料下载服务之产品出厂信息表\n{String} cps_id 产品型号id\n{String} sn_code 序列号\n{String} ple_code ple序列号文件id\n{String} customor_id 客户\n{Number} factory_on 出厂时间\n{String} notes 其它信息\n{String} created_by 注册人\n{Number} created_on 注册时间\n{String} updated_by 注册人\n{Number} updated_on 注册时间\n{String} status 状态：enabled, disabled",
+		"class": "router-account"
+	}, {
+		"file": "models/db/product/product_model.js",
+		"line": 26,
+		"description": "客户产品资料下载服务之产品型号信息表\n {String} name 名称\n {String} code 标识：只允许英文且唯一\n {String} customor_id 客户\n {[String]} info_admins 产品信息管理员\n {[String]} doc_admins 产品资料管理员\n {String} notes 其它信息\n {String} created_by 注册人\n {Number} created_on 注册时间\n {String} updated_by 注册人\n {Number} updated_on 注册时间\n {String} status 状态：enabled, disabled",
+		"class": "router-account"
+	}, {
+		"file": "models/db/report/reports.js",
+		"line": 29,
+		"description": "举报表\n举报人的邮箱是必须的，然后给这个邮箱建立一个账户，如果这个邮箱已经是注册用户，建议登录后再提交举报，便于跟踪交流\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被评论对象的id\n{Email} email: 邮箱\n{String} content\n{String} created_by: 更新人 related to Meteor.users\n{Number} created_on: 更新时间\n{String} status: 状态, ['new', 'processing', 'canceled', 'finished']",
+		"class": "router-account"
+	}, {
+		"file": "models/db/setting/info_menu.js",
+		"line": 37,
+		"description": "分类表，包括资讯、技巧、博客\n{String} name 分类名称\n{String} site_code 归属站点\n{String} unique_name 唯一标识名，必须是英文或数字\n{String} parent_name 上级分类 related to self\n{String} info_type ['data', 'single_page', 'news', 'resource', 'blog']单页、资讯、技巧、博客\n{String} description\n{String} created_by 注册人 related to Meteor.users\n{Number} created_on 注册时间\n{String} updated_by 更新人 related to Meteor.users\n{Number} updated_on 更新时间\n{String} status 状态：enabled, disabled",
+		"class": "router-account"
+	}, {
+		"file": "models/db/setting/site_params.js",
+		"line": 31,
+		"description": "站点参数表\n{String} name 名称\n{String} site_code 归属站点\n{String} unque_code 唯一名称\n{obj} data_val 这里可以存任何的信息，除了文件，以适应广泛性:\n\t\t\t上面的name:首页分类设置, unque_code: home_class_setting，只允许6个，里面必须有2个是大图(big_img为true)\n\t\t\t[\n\t\t\t\t{\n\t\t\t\t\ttarget_menu_id: {String}, related to InfosMenu\n\t\t\t  \t\ttarget_image: {String}, related to FilesUpload\n\t\t\t    \tbig_img: {bool},\n\t\t\t    \ttarget_title: {String},\n\t\t\t     \ttarget_description: {String},\n\t\t\t      }\n\t\t\t]\n\t\t\t上面的name:常用数据分类设置, unque_code: favor_data_class\n\t\t\t[\n\t\t\t\t{String}: related to InfosMenu\n\t\t\t]\n\t\t\t上面的name:常用头像设置, unque_code: common_avatars\n\t\t\t[\n\t\t\t\t{String}: related to FilesUpload\n\t\t\t]\n{String} description\n{String} created_by 注册人 related to Meteor.users\n{Number} created_on 注册时间\n{String} updated_by 更新人 related to Meteor.users\n{Number} updated_on 更新时间\n{String} status 状态：enabled, disabled",
+		"class": "router-account"
+	}, {
+		"file": "models/db/socre/scores.js",
+		"line": 29,
+		"description": "评分总表\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被评论对象的id\n{String} content\n{Number} scores: 得分\n{String} scored_by: 评分人 related to Meteor.users\n{obj} time_meta: 评分的时间截分属性\n\t\t\t{Number} year:\n\t\t\t{Number} month:\n\t\t\t{Number} week:\n\t\t\t{Number} day:\n\t\t\t{Number} hour:\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间",
+		"class": "router-account"
+	}, {
+		"file": "models/db/tag/tags.js",
+		"line": 21,
+		"description": "标签记录总表\n{String} site_code: 归属站点\n{String} name: 名称\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间",
+		"class": "router-account"
+	}, {
+		"file": "routes/account.js",
+		"line": 10,
+		"description": "登录",
+		"itemtype": "method",
+		"name": "/sign_in",
+		"params": [{
+			"name": "username",
+			"description": "",
+			"type": "Body param"
+		}, {
+			"name": "password",
+			"description": "",
+			"type": "Body param"
+		}],
+		"return": {
+			"description": "{\n\t status: 'success',\n\t datas: {\n\t\t session_token: 'session_token'\n\t }\n}",
+			"type": "Json"
+		},
+		"class": "router-account"
+	}, {
+		"file": "routes/account.js",
+		"line": 31,
+		"description": "注册 , 可用邮箱或者短信注册，需要在前端进行两次密码验证",
+		"itemtype": "method",
+		"name": "/sign_up",
+		"params": [{
+			"name": "username",
+			"description": "",
+			"type": "Body param"
+		}, {
+			"name": "password",
+			"description": "",
+			"type": "Body param"
+		}],
+		"example": [
+			"\n```js\n\t //status : success 成功； exists 用户已存在  error 系统异常\n```"
+		],
+		"return": {
+			"description": "{\n\t status: 'success',\n\t datas: {\n\t\t sessionId: 'session id'\n\t }\n}",
+			"type": "Json"
+		},
+		"class": "router-account"
+	}, {
+		"file": "routes/account.js",
+		"line": 56,
+		"description": "注销",
+		"itemtype": "method",
+		"name": "/logout",
+		"params": [{
+			"name": "_token",
+			"description": "- 用户token",
+			"type": "Url param"
+		}],
+		"return": {
+			"description": "{\n\t status: 'success',\n\t datas:''\n}",
+			"type": "Json"
+		},
+		"class": "router-account"
+	}, {
+		"file": "routes/account.js",
+		"line": 72,
+		"description": "密码找回",
+		"itemtype": "method",
+		"name": "/reset_pw",
+		"params": [{
+			"name": "username",
+			"description": "- 是电话号码或者邮箱号码",
+			"type": "Url param"
+		}],
+		"return": {
+			"description": "{\n\t status: 'success',\n\t datas: ''\n}",
+			"type": "Json"
+		},
+		"class": "router-account"
+	}, {
+		"file": "routes/account.js",
+		"line": 88,
+		"description": "第三方登录的回调接口",
+		"return": {
+			"description": "{\n\t status: 'success',\n\t datas: {\n\t\t sessionId: 'session id'\n\t }\n}",
+			"type": "Json"
+		},
+		"class": "router-account"
+	}, {
+		"file": "routes/category.js",
+		"line": 11,
+		"description": "网站分类推荐，用于获取首页的推荐分类。",
+		"itemtype": "method",
+		"name": "/recommend",
+		"params": [{
+			"name": "size",
+			"description": "- default 6",
+			"type": "Url param",
+			"optional": true
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: [{\n\t\t _id: 'id',\n\t\t is_big: true/false,\n\t\t unique_name: 'fadfads',\n\t\t title: 'title'\n\t },]}",
+			"type": "Json"
+		},
+		"class": "router-category"
+	}, {
+		"file": "routes/category.js",
+		"line": 76,
+		"description": "获取所有分类,不带参数，获取所有分类，带上级分类的id，则获取这个分类的所有子类",
+		"itemtype": "method",
+		"name": "/all",
+		"params": [{
+			"name": "id",
+			"description": "- 一级分类的id",
+			"type": "Url param",
+			"optional": true
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: [{\n\t\t _id: 'id',\n           unique_name: 'fadfads',\n\t\t title: 'category name',\n\t\t sub: [{\n\t\t\t\t _id: 'id',\n           unique_name: 'fadfads',\n\t\t\t\t title: 'sub category'\n\t\t\t }]\n\t }]}",
+			"type": "Json"
+		},
+		"class": "router-category"
+	}, {
+		"file": "routes/category.js",
+		"line": 136,
+		"description": "获取所有搜索分类\n默认是下载量及用户浏览量最大的各3个，如果取不足则由后台推荐的搜索分类进行补足",
+		"itemtype": "method",
+		"name": "/search",
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: [{\n\t\t _id: 'id',\n           unique_name: 'fadfads',\n\t\t title: 'category name',\n\t\t sub: [{\n\t\t\t\t _id: 'id',\n           unique_name: 'fadfads',\n\t\t\t\t title: 'sub category'\n\t\t\t }]\n\t }]}",
+			"type": "Json"
+		},
+		"class": "router-category"
+	}, {
+		"file": "routes/comment.js",
+		"line": 10,
+		"description": "用户中心返回用户所有的评论",
+		"itemtype": "method",
+		"name": "/user",
+		"params": [{
+			"name": "pageSize",
+			"description": "分页大小 默认二十条",
+			"type": "Url param"
+		}, {
+			"name": "pageNum",
+			"description": "页数",
+			"type": "Url param"
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: [{\n\t\t content: 'comment content',\n\t\t created_by: {\n\t\t\t _id: 'user id',\n\t\t\t name: 'user name'\n\t\t },\n\t\t created_on: Date.now(),\n\t },]}",
+			"type": "Json"
+		},
+		"class": "router-comment"
+	}, {
+		"file": "routes/comment.js",
+		"line": 48,
+		"description": "获取评论\n需要判断目标类型的目标对象用户是否有权限查看",
+		"itemtype": "method",
+		"name": "/get/:dataType/:dataId",
+		"params": [{
+			"name": "dataType",
+			"description": "评论的目标类型，一般是数据或文章"
+		}, {
+			"name": "dataId",
+			"description": "对应类型的目标id"
+		}, {
+			"name": "pageSize",
+			"description": "分页大小 默认二十条",
+			"type": "Url param"
+		}, {
+			"name": "pageNum",
+			"description": "页数",
+			"type": "Url param"
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: [{\n\t\t content: 'comment content',\n\t\t created_by: {\n\t\t\t _id: 'user id',\n\t\t\t name: 'user name'\n\t\t },\n\t\t created_on: Date.now(),\n\t },]}",
+			"type": "Json"
+		},
+		"class": "router-comment"
+	}, {
+		"file": "routes/comment.js",
+		"line": 89,
+		"description": "增加评论\n需要判断目标类型的目标对象用户是否有权限查看",
+		"itemtype": "method",
+		"name": "/add/:dataType/:dataId",
+		"params": [{
+			"name": "dataType",
+			"description": "评论的目标类型，一般是数据或文章"
+		}, {
+			"name": "dataId",
+			"description": "数据的id"
+		}, {
+			"name": "content",
+			"description": "内容",
+			"type": "Body param"
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: ''\n}",
+			"type": "Json"
+		},
+		"class": "router-comment"
+	}, {
+		"file": "routes/comment.js",
+		"line": 108,
+		"description": "删除评论\n需要判断目标类型的目标对象用户是否有权限查看",
+		"itemtype": "method",
+		"name": "/add/:dataType/:dataId",
+		"params": [{
+			"name": "dataType",
+			"description": "评论的目标类型，一般是数据或文章"
+		}, {
+			"name": "dataId",
+			"description": "数据的id"
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: ''\n}",
+			"type": "Json"
+		},
+		"class": "router-comment"
+	}, {
+		"file": "routes/datas.js",
+		"line": 12,
+		"description": "获取数据list，可按分类获取",
+		"itemtype": "method",
+		"name": "/list",
+		"params": [{
+			"name": "pageNum",
+			"description": "- default 1",
+			"type": "Url param",
+			"optional": true
+		}, {
+			"name": "pagesize",
+			"description": "- default 60",
+			"type": "Url param",
+			"optional": true
+		}, {
+			"name": "category",
+			"description": "- 默认是全部 ,这个值是传分类的id还是name有待商榷",
+			"type": "Url param",
+			"optional": true
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: [{\n\t\t _id: 'id',\n\t\t title: 'title',\n\t\t fav: 0,\n\t\t like: 0,\n\t\t download: 0,\n\t\t coment: 0,\n\t\t created_by: {\n\t\t\t _id: 'id',\n\t\t\t name: 'username',\n\t\t }\n\t }]\n}",
+			"type": "Json"
+		},
+		"class": "router-datas"
+	}, {
+		"file": "routes/datas.js",
+		"line": 52,
+		"description": "数据details页面",
+		"itemtype": "method",
+		"name": "/details/:id",
+		"params": [{
+			"name": "id",
+			"description": "- 数据id",
+			"type": "Strinig"
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: {\n\t\t _id: 'id',\n\t\t created_by: {\n\t\t\t _id: 'id',\n\t\t\t name: 'username',\n\t\t\t followed: 0\n\t\t },\n\t\t like: 0,\n\t\t fav: 0,\n\t\t viewed: 0,\n\t\t download: 0,\n\t\t title: 'title',\n\t\t size: [0, 0, 0],\n\t\t source: 'scan',\n\t\t print: 'H',\n\t\t category: {\n\t\t\t _id: 'id',\n\t\t\t title: 'category title'\n\t\t },\n\t\t release_on: Date.now(),\n\t\t score: {\n\t\t\t size: 0,\n\t\t\t avg: 0\n\t\t },\n\t\t file: [{\n\t\t\t _id: 'file_id',\n\t\t\t title: 'file title'\n\t\t }],\n\t\t image: [{\n\t\t\t _id: 'img_id',\n\t\t\t title: 'img title'\n\t\t }],\n\t\t tags: [{\n\t\t\t _id: 'tag id',\n\t\t\t title: 'tag title'\n\t\t }],\n\t\t desc: 'data desc'\n\t }\n}",
+			"type": "Json"
+		},
+		"class": "router-datas"
+	}, {
+		"file": "routes/datas.js",
+		"line": 144,
+		"description": "获取同分类的模型，可用于details页",
+		"itemtype": "method",
+		"name": "/related/:cate_id",
+		"params": [{
+			"name": "cate_id",
+			"description": "- 分类的id",
+			"type": "String"
+		}, {
+			"name": "exlude_id",
+			"description": "返回的数据中不包含这些id 对应的数据",
+			"type": "Url param"
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: [{\n\t\t _id: 'id',\n\t\t title: 'title',\n\t\t viewed: 0,\n\t\t download: 0\n\t }, ]\n}",
+			"type": "Json"
+		},
+		"example": [
+			"\n```\n\t\t$.get(\"BADE_URL/cate_id?exlude_id[0]=id0&exlude_id[1]=id1&exlude_id[0]=id2\")\n```"
+		],
+		"class": "router-datas"
+	}, {
+		"file": "routes/datas.js",
+		"line": 191,
+		"description": "拉取推荐数据,默认12个",
+		"itemtype": "method",
+		"name": "/recommend",
+		"params": [{
+			"name": "size",
+			"description": "- defaut 12",
+			"type": "Number"
+		}],
+		"return": {
+			"description": "- {status,datas:[{_id,title}]}",
+			"type": "Json"
+		},
+		"class": "router-datas"
+	}, {
+		"file": "routes/datas.js",
+		"line": 241,
+		"description": "发布数据",
+		"itemtype": "method",
+		"name": "/issue",
+		"params": [{
+			"name": "params",
+			"description": "- 待定",
+			"type": "Body param"
+		}],
+		"class": "router-datas"
+	}, {
+		"file": "routes/datas.js",
+		"line": 254,
+		"description": "获取用户的作品，用于detail页面及用户的个人主页中的作品",
+		"itemtype": "method",
+		"name": "/user",
+		"class": "router-datas"
+	}, {
+		"file": "routes/download.js",
+		"line": 8,
+		"description": "获取data的下载记录",
+		"itemtype": "method",
+		"name": "/get/:dataId",
+		"params": [{
+			"name": "dataId",
+			"description": "- 数据的id",
+			"type": "String"
+		}, {
+			"name": "pageNum",
+			"description": "- start from 1",
+			"type": "Url param"
+		}, {
+			"name": "pageSize",
+			"description": "- default 20",
+			"type": "Url param"
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: [{\n\t\t _id: 'id',\n\t\t name: 'user name',\n\t\t download_on: Date.now()\n\t },]\n}",
+			"type": "Json"
+		},
+		"class": "router-download"
+	}, {
+		"file": "routes/download.js",
+		"line": 42,
+		"description": "获取data的下载用户 ，返回这条数据的下载用户列表",
+		"itemtype": "method",
+		"name": "/user/:dataId",
+		"params": [{
+			"name": "dataId",
+			"description": "数据的id"
+		}, {
+			"name": "pageNum",
+			"description": "",
+			"type": "Url param"
+		}, {
+			"name": "pageSize",
+			"description": "",
+			"type": "Url param"
+		}],
+		"class": "router-download"
+	}, {
+		"file": "routes/download.js",
+		"line": 83,
+		"description": "获取我的下载",
+		"itemtype": "method",
+		"name": "/my",
+		"params": [{
+			"name": "pageNum",
+			"description": "",
+			"type": "Url param"
+		}, {
+			"name": "pageSize",
+			"description": "",
+			"type": "Url param"
+		}],
+		"class": "router-download"
+	}, {
+		"file": "routes/favor.js",
+		"line": 5,
+		"description": "收藏操作\n每个数据或文章只能被收藏一次",
+		"itemtype": "method",
+		"name": "/add/:dataType/:dataId",
+		"params": [{
+			"name": "dataType",
+			"description": ""
+		}, {
+			"name": "datasId",
+			"description": ""
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success'\n\t datas:''\n}",
+			"type": "Json"
+		},
+		"class": "router-score"
+	}, {
+		"file": "routes/favor.js",
+		"line": 23,
+		"description": "收藏过的用户列表",
+		"itemtype": "method",
+		"name": "/user/:dataType/:dataId",
+		"params": [{
+			"name": "dataType",
+			"description": ""
+		}, {
+			"name": "datasId",
+			"description": ""
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success'\n\t datas:''\n}",
+			"type": "Json"
+		},
+		"class": "router-score"
+	}, {
+		"file": "routes/favor.js",
+		"line": 40,
+		"description": "用户的收藏，用于个人主页的收藏及用户中心的收藏",
+		"itemtype": "method",
+		"name": "/list/:dataType",
+		"params": [{
+			"name": "dataType",
+			"description": ""
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success'\n\t datas:''\n}",
+			"type": "Json"
+		},
+		"class": "router-score"
+	}, {
+		"file": "routes/like.js",
+		"line": 5,
+		"description": "点赞操作\n每个用户只能点一次，不管是数据、文章还是评论\n{{#crossLink \"router-like:/like/add/:dataType/:datasId\"}}{{/crossLink}}",
+		"itemtype": "method",
+		"name": "/add/:dataType/:dataId",
+		"params": [{
+			"name": "dataType",
+			"description": ""
+		}, {
+			"name": "datasId",
+			"description": ""
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success'\n\t datas:''\n}",
+			"type": "Json"
+		},
+		"class": "router-score"
+	}, {
+		"file": "routes/score.js",
+		"line": 8,
+		"description": "获取目标类型对象目标的评分记录",
+		"itemtype": "method",
+		"name": "/get/:dataType/:dataId",
+		"params": [{
+			"name": "dataType",
+			"description": "- 数据id",
+			"type": "String"
+		}, {
+			"name": "dataId",
+			"description": "- 数据id",
+			"type": "String"
+		}],
+		"return": {
+			"description": "-{\n\t status: 'success',\n\t datas: [{\n\t\t _id: 'id',\n\t\t name: 'username',\n\t\t content: 'content',\n\t\t score: 0,\n\t\t created_on: Date.now()\n\t }]\n}",
+			"type": "Json"
+		},
+		"class": "router-score"
+	}, {
+		"file": "routes/score.js",
+		"line": 37,
+		"description": "添加目标类型对象目标的评分记录\n需要判断是否有足够的权限\n\t比如，如果是数据，必须是用户下载过才能评分。\n对同一个目标类型的同一目标只能做一次评分",
+		"itemtype": "method",
+		"name": "/add/:dataType/:dataId",
+		"params": [{
+			"name": "dataType",
+			"description": "- 数据id",
+			"type": "String"
+		}, {
+			"name": "dataId",
+			"description": "- 数据id",
+			"type": "String"
+		}],
+		"return": {
+			"description": "-{\n\t status: 'success',\n\t datas: [{\n\t\t _id: 'id',\n\t\t name: 'username',\n\t\t content: 'content',\n\t\t score: 0,\n\t\t created_on: Date.now()\n\t }]\n}",
+			"type": "Json"
+		},
+		"class": "router-score"
+	}, {
+		"file": "routes/score.js",
+		"line": 69,
+		"description": "我的评分记录",
+		"itemtype": "method",
+		"name": "/my",
+		"return": {
+			"description": "-{\n\t status: 'success',\n\t datas: [{\n\t\t _id: 'id',\n\t\t name: 'username',\n\t\t content: 'content',\n\t\t score: 0,\n\t\t created_on: Date.now()\n\t }]\n}",
+			"type": "Json"
+		},
+		"class": "router-score"
+	}, {
+		"file": "routes/search.js",
+		"line": 7,
+		"description": "提供简单搜索，原理使用正则表达式匹配的方式",
+		"itemtype": "method",
+		"name": "/",
+		"params": [{
+			"name": "keys",
+			"description": "- 关键字字符串(无需前端分词，只要把做trim)",
+			"type": "String"
+		}, {
+			"name": "category",
+			"description": "- 搜索的类型范围 默认全部",
+			"type": "Url param",
+			"optional": true
+		}, {
+			"name": "pageNum",
+			"description": "- 搜索结果页码 default 1",
+			"type": "Url param",
+			"optional": true
+		}, {
+			"name": "pageSize",
+			"description": "- 分页的大小 default 20",
+			"type": "Url param",
+			"optional": true
+		}],
+		"example": [
+			"\n```js\n\t\t$.get('/search/keywords?category=id&pageNUm=2&pageSize=30')\n```"
+		],
+		"return": {
+			"description": "-  {\n\t status: 'success',\n\t datas: []\n}",
+			"type": "Json"
+		},
+		"class": "router-search"
+	}, {
+		"file": "routes/upload.js",
+		"line": 11,
+		"description": "用户上传get",
+		"itemtype": "method",
+		"name": "/",
+		"class": "router-upload"
+	}, {
+		"file": "routes/upload.js",
+		"line": 22,
+		"description": "用户上传post",
+		"itemtype": "method",
+		"name": "/",
+		"class": "router-upload"
+	}, {
+		"file": "routes/upload.js",
+		"line": 35,
+		"description": "获取用户的上传列表，用于本次上传，用户未发布的及用户所有的上传",
+		"itemtype": "method",
+		"name": "/user",
+		"params": [{
+			"name": "userId",
+			"description": "用户id"
+		}, {
+			"name": "pageNum",
+			"description": "default 20",
+			"type": "Url param",
+			"optional": true
+		}, {
+			"name": "pageSize",
+			"description": "",
+			"type": "Url param",
+			"optional": true
+		}, {
+			"name": "userId",
+			"description": "- default current acction user id",
+			"type": "Url param",
+			"optional": true
+		}],
+		"return": {
+			"description": "-{\n\t status: 'success',\n\t datas: [{\n\t\t id: 'data id',\n\t\t title: 'data title',\n\t\t thumb: {\n\t\t\t id: 'thumb id',\n\t\t\t title: 'thumb title'\n\t\t },\n\t\t size: 0,\n\t\t upload_on: Date.now(),\n\t\t status: 'finished'\n\t }]\n}",
+			"type": "Json"
+		},
+		"class": "router-upload"
+	}, {
+		"file": "routes/users.js",
+		"line": 12,
+		"description": "获取用户基本信息",
+		"itemtype": "method",
+		"name": "/basic/profile",
+		"params": [{
+			"name": "userId",
+			"description": "- defaut current userid",
+			"type": "Url param",
+			"optional": true
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: {\n\t\t _id: 'id',\n\t\t name: 'user name',\n\t\t gender: '男',\n\t\t works_size: 0,\n\t\t fav_size: 0,\n\t\t follow: 0,\n\t\t followed: 0,\n\t\t signatrue:''\n\t }\n}",
+			"type": "Json"
+		},
+		"class": "router-user"
+	}, {
+		"file": "routes/users.js",
+		"line": 46,
+		"description": "获取用户完整信息",
+		"itemtype": "method",
+		"name": "/profile",
+		"params": [{
+			"name": "userId",
+			"description": "- defaut current userid",
+			"type": "Url param",
+			"optional": true
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: {\n\t\t _id: 'id',\n\t\t name: 'user name',\n\t\t gender: '男',\n\t\t works_size: 0,\n\t\t fav_size: 0,\n\t\t follow: 0,\n\t\t followed: 0,\n\t\t signatrue: '',\n\t\t phone: '',\n\t\t email: ''\n\t }\n}",
+			"type": "Json"
+		},
+		"class": "router-user"
+	}, {
+		"file": "routes/users.js",
+		"line": 84,
+		"description": "用户资料更新 ，统一post接口，能够修改能够有权限修改的所有资料",
+		"itemtype": "method",
+		"name": "/",
+		"params": [{
+			"name": "-",
+			"description": "update_list",
+			"type": "Body param"
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: ''\n}",
+			"type": "Json"
+		},
+		"example": [
+			"\n```js\n\t//可以修改的字段有\n\t//nickname 昵称\n\t//email  邮箱\n\t// gender 性别\n\t//phone  手机号码\n\t//avatar 头像id\n\t//signatrue 签名\n\t$.post(url,{nickname:'my name',email:'xxx@shining3d.com',phone:12345678998,avatar:'avartar id',signatrue:'my signatrue'})\n```"
+		],
+		"class": "router-user"
+	}, {
+		"file": "routes/users.js",
+		"line": 112,
+		"description": "关注一个用户",
+		"itemtype": "method",
+		"name": "/follow/:userId",
+		"params": [{
+			"name": "userId",
+			"description": "-  目标用户"
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas:''\n}",
+			"type": "Json"
+		},
+		"class": "router-user"
+	}, {
+		"file": "routes/users.js",
+		"line": 128,
+		"description": "取消关注一个用户",
+		"itemtype": "method",
+		"name": "/unfollow/:userId",
+		"params": [{
+			"name": "userId",
+			"description": "- 目标用户"
+		}],
+		"return": {
+			"description": "- {\n\t status: 'success',\n\t datas: ''\n}",
+			"type": "Json"
+		},
+		"class": "router-user"
+	}, {
+		"file": "routes/users.js",
+		"line": 144,
+		"description": "获取我的关注列表",
+		"itemtype": "method",
+		"name": "/getFollow",
+		"params": [{
+			"name": "userId",
+			"description": "default current account userid",
+			"type": "Url param",
+			"optional": true
+		}, {
+			"name": "pageSize",
+			"description": "default 10",
+			"type": "Url param",
+			"optional": true
+		}, {
+			"name": "pageNum",
+			"description": "default 1",
+			"type": "Url param",
+			"optional": true
+		}],
+		"class": "router-user"
+	}, {
+		"file": "routes/users.js",
+		"line": 155,
+		"description": "获取我的粉丝列表",
+		"itemtype": "method",
+		"name": "/getFollower",
+		"params": [{
+			"name": "userId",
+			"description": "default current account userid",
+			"type": "Url param",
+			"optional": true
+		}, {
+			"name": "pageSize",
+			"description": "default 10",
+			"type": "Url param",
+			"optional": true
+		}, {
+			"name": "pageNum",
+			"description": "default 1",
+			"type": "Url param",
+			"optional": true
+		}],
+		"class": "router-user"
+	}],
+	"warnings": [{
+		"message": "Missing item type\n客户信息表\n{String} name: 客户名称\n{String} site_code: 归属站点\n{[String]} administrators: 管理员 related to Meteor.users\n{String} notes: 其它信息\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间\n{String} updated_by: 注册人 related to Meteor.users\n{Number} updated_on: 注册时间",
+		"line": " models/db/customer/customer.js:28"
+	}, {
+		"message": "Missing item type\n数据总表\n{String} title: 标题\n{String} site_code: 归属站点\n{String} page_name: 页面名称，必须是站点同类中唯一，建议规则是数据名称的英文\n{[obj]} data_class: related to InfoMenu,{id:XXX, name: XXX, unique_name:XXX}\n{[String]} data_from: ['scan', 'design']\n{[String]} key_word\n{[obj]} tags: {id:XXX, name: XXX}\n{[obj]} datas: related to FilesUpload,{id:XXX, name: XXX}\n{[String]} thumbs: related to FilesUpload，这里放置的是图片的缩略图，需要与ued商量这里需要不需要指定哪个为主图\n{String} description\n{obj} meta_data:数据信息\n\t\t{obj} size: 尺寸\n\t\t\t{Number} x_size\n\t\t\t{Number} y_size\n\t\t\t{Number} z_size\n\t\t{String} quality: 质量 ['high','middle','low']\n\t\t{Number} vertices: 顶点数\n\t\t{Number} faces: 三角面片\n{obj} static_data:统计数据，动态触发更新\n\t\t{Number} like_counts: 点赞数量\n\t\t{Number} favor_counts: 收藏数量\n\t\t{Number} view_counts: 浏览数量\n\t\t{Number} preview_counts: 预览数量\n\t\t{Number} comment_counts: 评论数量\n\t\t{Number} download_counts: 下载数量\n\t\t{Number} avg_score: 平均得分\n{String} issue_by: related to Meteor.users\n{Number} issue_on：发布时间\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间\n{String} updated_by: 更新人 related to Meteor.users\n{Number} updated_on: 更新时间\n{String} status: 状态, ['new', 'issued', 'recommended', 'deleted', 'un_pub'(新增 取消发布)]\n\t\tnew:表示用户提交，未审核的\n\t\tissued:表示已经审核通过\n\t\tunpassed:表示审核未通过\n\t\trecommended:表示被推荐的\n\t\tdeleted：表示被删除的",
+		"line": " models/db/datas/datas.js:106"
+	}, {
+		"message": "Missing item type\n下载记录总表\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被对象的id\n{String} target_name: 被对象的name or title\n{obj} time_meta: 下载的时间截分属性\n\t\t\t{Number} year:\n\t\t\t{Number} month:\n\t\t\t{Number} week:\n\t\t\t{Number} day:\n\t\t\t{Number} hour:\n{String} downloaded_by: 下载人 related to Meteor.users\n{String} created_by: 注册人 related to Meteor.users\n{Number} down_count: 下载次数\n{Number} created_on: 注册时间",
+		"line": " models/db/download/download.js:28"
+	}, {
+		"message": "Missing item type\n编辑推荐总表\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被对象的id\n{String} target_name: 被对象的name or title\n{String} content\n{String} recommended_by: 评论人 related to Meteor.users\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间\n{String} updated_by: 更新人 related to Meteor.users\n{Number} updated_on: 更新时间\n{String} status: 状态, ['enabled', 'disabled']",
+		"line": " models/db/editor_recommend/recommend.js:29"
+	}, {
+		"message": "Missing item type\n收藏记录总表\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被对象的id\n{String} target_name: 被对象的name or title\n{String} favored_by: 收藏人 related to Meteor.users\n{obj} time_meta: 收藏的时间截分属性\n\t\t\t{Number} year:\n\t\t\t{Number} month:\n\t\t\t{Number} week:\n\t\t\t{Number} day:\n\t\t\t{Number} hour:\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间",
+		"line": " models/db/favor/favor.js:24"
+	}, {
+		"message": "Missing item type\n上传文件表\n本表用于上传过程中的记录：\n\t\t上传过程中的状态为uploading\n\t\t失败为failed\n\t\t保存完成为finished\n本表也用于已经完成上传并合并或者是在生成缩略图的正式文件的记录，状态一般为:\n\t\tenabled表示上传但未被发布或引用\n\t\tquoted表示被常规引用\n\t\t生成失败为failed\n\t\tgenerating表示正在生成中\n注意：\n\t\t是否允许上传应该是判断是否同一个人上传的相同大小、名称的文件：\n\t\t\t\t\tsite_code、指定的保存顶级目录、file_class、chunks_size、upload_by、\n\t\t\t\t\t\t file_size、content_type、file_name、status\n\t\t在被引用或发布时，应该更新本表相应记录的目标表和目标id\n\t\t在被取消引用或发布时，同样需要更新\n\t\t在文件被删除时，应该需要同步删除相应记录\n\t\t上传完成后正式文件保存完时，应该要建立与chunks之间的关系\n\t\t生成预览图时，也应该要建立预览图与原图之间的关系\n{String}                 site_code 看lib的config.js中的定义\n{String }                save_path 客户指定的上传保存的顶级目录\n{String }                gen_save_path 上传保存时服务器端在指定顶级目录下生成的目录\n{String }                file_class ['origin', 'image', 'thumb', 'avatar', 'thumb_avatar']值中的一个\n{String }                save_class ['fs','gridfs']值中的一个\n{String }                upload_by 上传人id\n{Int}                    upload_on 上传时间\n{Int}                    file_size: '234080',\n{String}                 content_type: 'image/png',\n{String}                 unique_identifier: 文件的唯一标识，一般是md5后的文件和用户名,\n{String}                 save_name: 'github.png',\n{String}                 file_name: 'github.png',\n{Int}                    chunks_size: '1'\n{String}                 status  ['uploading','failed','finished','generating','enalbed','quoted']中的一个\n{obj or [obj]}     related_obj\n\t\t\t\t\t对于origin来说，这里保存的是chunk文件的{[obj]}{id:XXX,name:XXX}\n\t\t\t\t\t对于image来说，这里保存的是thumb文件的{[obj]}{id:XXX,name:XXX}\n\t\t\t\t\t对于thumb来说，这里保存的是image文件的{obj}{id:XXX,name:XXX}\n\t{[Ojbect]}\t            quoted_by 这里保存的Object结构是{'collection_name':XXX, 'id':XXX, 'name':XXX}",
+		"line": " models/db/files/upload_files.js:42"
+	}, {
+		"message": "Missing item type\n非数据类的资讯总表，包括单页、资讯、技巧、博客\n{String} page_title: 标题\n{String} site_code: 归属站点\n{String} page_name: 页面名称，一般用于Seo，表示生成的链接中的地址，必须是站点中同类唯一，建议规则是标题的英文\n{String} info_type: ['single_page', 'news', 'resource', 'blog']单页、资讯、技巧、博客\n{[obj]} info_menu: related to InfoMenu,{id:XXX, name: XXX, unique_name:XXX}\n{[String]} key_word\n{[obj]} page_tags:{id:XXX, name: XXX}\n{[String]} attachments: related to FilesUpload\n{String} issue_by: related to Meteor.users\n{String} description\n{String} issue_on\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间\n{String} updated_by: 更新人 related to Meteor.users\n{Number} updated_on: 更新时间\n{String} status: 状态, ['enabled', 'disabled']",
+		"line": " models/db/infos/infos.js:39"
+	}, {
+		"message": "Missing item type\n点赞总表\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被对象的id\n{String} target_name: 被对象的name or title\n{String} liked_by: 评分人 related to Meteor.users\n{obj} time_meta: 点赞的时间截分属性\n\t\t\t{Number} year:\n\t\t\t{Number} month:\n\t\t\t{Number} week:\n\t\t\t{Number} day:\n\t\t\t{Number} hour:\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间",
+		"line": " models/db/like/likes.js:23"
+	}, {
+		"message": "Missing item type\n系统错误日志表\n{number} create_on 发生的时间\n{String} site_code\n{String} level 等级，分级制度参考Linux process 优先级规则\n{String} desc  错误的描述，一般是存Meteor.Error.error\n{String} comment 错误的备注\n{String} source 错误的发生源，一般是方法名",
+		"line": " models/db/log/log_error.js:25"
+	}, {
+		"message": "Missing item type\n用户产品注册信息表\n{String} cps_id 产品型号\n{String} sn_code 序列号\n{Number} factory_on 出厂时间\n{Number} active_on 激活时间\n{String} active_by 激活人\n{String} note 备注\n{String} created_by 注册人\n{Number} created_on 注册时间\n{String} updated_by 注册人\n{Number} updated_on 注册时间\n{String} status 状态",
+		"line": " models/db/product/product_active.js:29"
+	}, {
+		"message": "Missing item type\n客户产品资料下载服务之产品型号资料表\n{[String]} cps_id 产品型号\n{String} customor_id 客户\n{[String]} docs_ar 产品资料\n{Number} issue_on 出厂时间\n{String} notes 其它信息\n{String} created_by 注册人\n{Number} created_on 注册时间\n{String} updated_by 更新信息\n{Number} updated_on 更新信息时间\n{String} status 状态：enabled, disabled",
+		"line": " models/db/product/product_doc.js:28"
+	}, {
+		"message": "Missing item type\n客户产品资料下载服务之产品出厂信息表\n{String} cps_id 产品型号id\n{String} sn_code 序列号\n{String} ple_code ple序列号文件id\n{String} customor_id 客户\n{Number} factory_on 出厂时间\n{String} notes 其它信息\n{String} created_by 注册人\n{Number} created_on 注册时间\n{String} updated_by 注册人\n{Number} updated_on 注册时间\n{String} status 状态：enabled, disabled",
+		"line": " models/db/product/product_factory.js:28"
+	}, {
+		"message": "Missing item type\n客户产品资料下载服务之产品型号信息表\n {String} name 名称\n {String} code 标识：只允许英文且唯一\n {String} customor_id 客户\n {[String]} info_admins 产品信息管理员\n {[String]} doc_admins 产品资料管理员\n {String} notes 其它信息\n {String} created_by 注册人\n {Number} created_on 注册时间\n {String} updated_by 注册人\n {Number} updated_on 注册时间\n {String} status 状态：enabled, disabled",
+		"line": " models/db/product/product_model.js:26"
+	}, {
+		"message": "Missing item type\n举报表\n举报人的邮箱是必须的，然后给这个邮箱建立一个账户，如果这个邮箱已经是注册用户，建议登录后再提交举报，便于跟踪交流\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被评论对象的id\n{Email} email: 邮箱\n{String} content\n{String} created_by: 更新人 related to Meteor.users\n{Number} created_on: 更新时间\n{String} status: 状态, ['new', 'processing', 'canceled', 'finished']",
+		"line": " models/db/report/reports.js:29"
+	}, {
+		"message": "Missing item type\n分类表，包括资讯、技巧、博客\n{String} name 分类名称\n{String} site_code 归属站点\n{String} unique_name 唯一标识名，必须是英文或数字\n{String} parent_name 上级分类 related to self\n{String} info_type ['data', 'single_page', 'news', 'resource', 'blog']单页、资讯、技巧、博客\n{String} description\n{String} created_by 注册人 related to Meteor.users\n{Number} created_on 注册时间\n{String} updated_by 更新人 related to Meteor.users\n{Number} updated_on 更新时间\n{String} status 状态：enabled, disabled",
+		"line": " models/db/setting/info_menu.js:37"
+	}, {
+		"message": "Missing item type\n站点参数表\n{String} name 名称\n{String} site_code 归属站点\n{String} unque_code 唯一名称\n{obj} data_val 这里可以存任何的信息，除了文件，以适应广泛性:\n\t\t\t上面的name:首页分类设置, unque_code: home_class_setting，只允许6个，里面必须有2个是大图(big_img为true)\n\t\t\t[\n\t\t\t\t{\n\t\t\t\t\ttarget_menu_id: {String}, related to InfosMenu\n\t\t\t  \t\ttarget_image: {String}, related to FilesUpload\n\t\t\t    \tbig_img: {bool},\n\t\t\t    \ttarget_title: {String},\n\t\t\t     \ttarget_description: {String},\n\t\t\t      }\n\t\t\t]\n\t\t\t上面的name:常用数据分类设置, unque_code: favor_data_class\n\t\t\t[\n\t\t\t\t{String}: related to InfosMenu\n\t\t\t]\n\t\t\t上面的name:常用头像设置, unque_code: common_avatars\n\t\t\t[\n\t\t\t\t{String}: related to FilesUpload\n\t\t\t]\n{String} description\n{String} created_by 注册人 related to Meteor.users\n{Number} created_on 注册时间\n{String} updated_by 更新人 related to Meteor.users\n{Number} updated_on 更新时间\n{String} status 状态：enabled, disabled",
+		"line": " models/db/setting/site_params.js:31"
+	}, {
+		"message": "Missing item type\n评分总表\n{String} site_code: 归属站点\n{String} target_collection: 目标的数据库表名称，meteor里的collection类全名，比如Meteor.users/FilesUpload\n{String} target_id: 被评论对象的id\n{String} content\n{Number} scores: 得分\n{String} scored_by: 评分人 related to Meteor.users\n{obj} time_meta: 评分的时间截分属性\n\t\t\t{Number} year:\n\t\t\t{Number} month:\n\t\t\t{Number} week:\n\t\t\t{Number} day:\n\t\t\t{Number} hour:\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间",
+		"line": " models/db/socre/scores.js:29"
+	}, {
+		"message": "Missing item type\n标签记录总表\n{String} site_code: 归属站点\n{String} name: 名称\n{String} created_by: 注册人 related to Meteor.users\n{Number} created_on: 注册时间",
+		"line": " models/db/tag/tags.js:21"
+	}, {
+		"message": "Missing item type\n第三方登录的回调接口",
+		"line": " routes/account.js:88"
+	}]
+}

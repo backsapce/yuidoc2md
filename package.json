@@ -1,0 +1,14 @@
+{
+	"name": "yui2md",
+	"version": "1.0.0",
+	"description": "yuidoc render to md",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "@backspace",
+	"license": "MIT",
+	"dependencies": {
+		"lodash": "^3.10.1"
+	}
+}
