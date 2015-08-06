@@ -1,6 +1,6 @@
 {
 	"name": "yui2md",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"description": "yuidoc render to md",
 	"main": "index.js",
 	"scripts": {
