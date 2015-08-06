@@ -1,0 +1,11 @@
+#! /usr/bin/env node
+
+
+var out_dir = process.argv[2] || 'doc';
+if (!out_dir) {
+	console.log('out_dir name not exist');
+	return;
+}
+var gen_md = require('../index');
+
+gen_md(out_dir);
