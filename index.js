@@ -26,7 +26,7 @@ module.exports = function(out_dir) {
 		this.buffer += str;
 	};
 	BufferMd.prototype.done = function() {
-		this.buffer = this.buffer.split('_').join('\\_');
+		// this.buffer = this.buffer.split('_').join('\\_');
 		// console.log(this.buffer.split('_'));
 		fs.writeFileSync(this._file_path, this.buffer);
 	};
@@ -58,7 +58,12 @@ module.exports = function(out_dir) {
 				});
 				md_file.writeMd('`return`' + '\n\n');
 				if (nn.return) {
-					md_file.writeMd('* ' + '`' + nn.return.type + '` ' + nn.return.description.replace(/(\r\n|\n|\r||\n\t||\r\n\t)/gm, '') + '\n\n');
+					md_file.writeMd('* ' + '`' + nn.return.type + '` \n');
+					md_file.writeMd('```js\n');
+					// var json = nn.return.description.replace(/(\r\n|\n|\r||\n\t||\r\n\t)/gm, '');
+					var json = nn.return.description;
+					md_file.writeMd(JSON.parse(JSON.stringify(json.toString()))+ '\n');
+					md_file.writeMd('```\n\n');
 				}
 				//只读取第一个example
 				if (nn.example) {
