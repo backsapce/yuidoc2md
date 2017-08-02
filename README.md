@@ -3,6 +3,8 @@ ________________
 [![NPM](https://nodei.co/npm/yui2md.png?compact=true)](https://nodei.co/npm/yui2md/)  [![Build Status](https://travis-ci.org/backsapce/yuidoc2md.svg?branch=master)](https://travis-ci.org/backsapce/yuidoc2md)
 
 
+# Deprecated 
+
 ## convert yuidoc tag to markdown
 
 ### install
